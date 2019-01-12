@@ -26,7 +26,7 @@ glusterfs
 
 ha 
  
-todayGood&69  
+ 
 
 职位要求：
 1. 熟悉Docker, Kubernetes, Mesos等基于容器的云持续部署技术；
